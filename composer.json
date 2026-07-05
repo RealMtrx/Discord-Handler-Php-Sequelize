@@ -1,0 +1,9 @@
+{
+  "name": "realmtrx/discord-handler-php-sequelize",
+  "autoload": { "psr-4": { "DiscordHandler\\": "src/" } },
+  "require": {
+    "team-reflex/discord-php": "^7.0",
+    "illuminate/database": "^10.0",
+    "vlucas/phpdotenv": "^5.0"
+  }
+}
